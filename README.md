@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **front-end issues**
 
-- 📫 How to reach me **raiseta92@gmail.com**
+- 📫 How to reach me **herraiz_1992@hotmail.com**
 
 - ⚡ Fun fact **I'm a tattoo entusiast**
 
