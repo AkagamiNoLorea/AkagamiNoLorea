@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aida Herraiz(AkagamiNoLorea)</h1>
 <h3 align="center">I'm a full stack developer from Catalonia</h3>
 
-- 🌱 I’m currently learning **React and Springboot**
+- 🌱 I’m currently learning **Java and Springboot**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AkagamiNoLorea?tab=repositories](https://github.com/AkagamiNoLorea?tab=repositories)
 
-- 💬 Ask me about **front-end issues**
+- 💬 Ask me about **any questions you have**
 
 - 📫 How to reach me **herraiz_1992@hotmail.com**
 
